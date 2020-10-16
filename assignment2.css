@@ -11,3 +11,16 @@ font-style: italic;}
 .bluejeans{color: blue;
 font-family: sans-serif;
 font-size: 15px;}
+
+.fruit{ height:50%;
+        width: 50%;
+        border: black 1px dashed;
+        padding:15px;
+
+}
+
+.superheros{height: 50%;
+            width: 40%;
+            margin:20px;
+            border: blue 1px solid;
+            padding:15px;}

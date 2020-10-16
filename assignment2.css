@@ -1,0 +1,13 @@
+body{background: lightyellow;}
+
+h1{text-transform: uppercase;}
+
+h3{color: red;}
+
+.purplepuppy{color: purple;
+font-size: 25px;
+font-style: italic;}
+
+.bluejeans{color: blue;
+font-family: sans-serif;
+font-size: 15px;}

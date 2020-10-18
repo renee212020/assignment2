@@ -2,7 +2,21 @@ body{background: lightyellow;}
 
 h1{text-transform: uppercase;}
 
-h3{color: red;}
+h4{text-decoration: underline;
+font-family: serif;
+font-style: italic;
+text-align: center;
+position:relative;
+padding-top:10px;}
+
+h3,h4,h5{color: red;
+text-transform: capitalize;}
+
+.div2 p{color:green;}
+
+.p1{font-weight: bold;
+font-style: italic;
+text-transform: uppercase;}
 
 .purplepuppy{color: purple;
 font-size: 25px;
@@ -16,11 +30,12 @@ font-size: 15px;}
         width: 50%;
         border: black 1px dashed;
         padding:15px;
-
 }
 
-.superheros{height: 50%;
+.superheros{
             width: 40%;
             margin:20px;
             border: blue 1px solid;
-            padding:15px;}
+            padding:15px;
+            position:absolute;
+          	left:100px;}
